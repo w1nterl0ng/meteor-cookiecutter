@@ -1,0 +1,1 @@
+### Keep information here that you want accessible to the public at a root level. Things like images.
